@@ -10,3 +10,7 @@ from neural firing rates in the visual cortex.
 >The dataset can be downloaded from:
 >https://figshare.com/articles/Recordings_of_ten_thousand_neurons_in_visual_cortex_in_response_to_2_800_natural_images/6845348  
  
+TO-DO:
+
+Other decoders from https://github.com/KordingLab/Neural_Decoding will be applied to this dataset as the second part of the tutorial.
+
