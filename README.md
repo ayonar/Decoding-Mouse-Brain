@@ -1,4 +1,4 @@
-#Decoding-Mouse-Brain
+## Decoding-Mouse-Brain
 
 I have applied common unsupervised and supervised learning methods to a neural activity dataset in 
 Stringer, Pachitariu et. al. Nature 2019 [https://www.nature.com/articles/s41586-019-1346-5].
